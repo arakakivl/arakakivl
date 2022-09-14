@@ -3,4 +3,4 @@
 - getting in depth in C++, TypeScript and Linux
 - interested in cybersecurity
  
-*I also have (basic) knowledge in sql, git, bash, python, frontend development, and if there's a CLI, at least **test it**.*
+*I also have (basic) knowledge in sql, git, bash, python and frontend development*
