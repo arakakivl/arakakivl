@@ -1,6 +1,6 @@
 ### I am...
 - improving my backend development with C# (mainly APIs)
-- getting in depth in C++, TypeScript and Linux
+- getting in depth in C/C++, frontend development and linux environments
 - interested in cybersecurity
  
-*I also have (basic) knowledge in sql, git, bash, python and frontend development*
+*I also have (basic) knowledge in sql, git, bash and python*
